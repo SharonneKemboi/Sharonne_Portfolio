@@ -1,0 +1,59 @@
+#contact{
+    margin-top: 3%;
+    color: white;
+}
+.contactme{
+    text-align: center;
+    font-weight: bold;
+}
+#contact a{
+    text-decoration: none;
+    color: white;
+}
+.form-control{
+    background-color: rgba(250, 248, 248, 0);
+    padding: 20px;
+    border-radius: 30px;
+    color: white;
+}
+.form-control:hover{
+    border: #F2C4CE 2px solid;
+}
+#contact .btn{
+    padding: 2% 6% 2% 6%;
+    background-color: #7bf3e9;
+    box-shadow: 5px 10px 8px 5px #252323;
+    margin-top: 4%;
+    border-radius: 20px;
+}
+#contact .btn:hover{
+    transform: scale(1.2);
+}
+.icon{
+    margin-right: 3%;
+    padding: 3%;
+    background-color: #a3f0e3;
+    border-radius: 50px;
+    color: #2E2E31;
+}
+.socialize i{
+    margin: 5%;
+    padding: 3%;
+    border-radius: 50px;
+    box-shadow: 5px 10px 8px 5px #252323;
+    font-size: xx-large;
+    background-color: #3c3c3f;
+}
+.socialize i:hover{
+    background-color: #186662;
+    color: #dfdfe9;
+}
+footer{
+    background-color: #0f5e5e;
+    text-align: center;
+    color: white;
+}
+footer p{
+    padding: 10px;
+    margin-bottom: -10px;
+}
