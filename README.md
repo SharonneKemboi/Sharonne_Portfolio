@@ -1,5 +1,5 @@
-# sudoariel.github.io
+# sharonnekemboi.github.io
 
 My portfolio - GitHub sites
 
-https://sudoariel.github.io/
+https://sharonnekemboi.github.io/
